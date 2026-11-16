@@ -1,0 +1,7 @@
+_private_notes_do_not_upload/
+project_code_walkthrough.md
+submission_form_guide.md
+nasa_space_apps_triage_specification.md
+__pycache__/
+*.pyc
+.DS_Store
