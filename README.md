@@ -1,6 +1,6 @@
 # BiometrAR
 
-**Autonomous Astronaut Health Monitoring Prototype Powered by Edge AI on an ESP32**
+**Autonomous Astronaut Health Monitoring Prototype Powered by a MLP Neural Network on an ESP32**
 
 ---
 
